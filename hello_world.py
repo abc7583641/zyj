@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 msg="  hello world  "
 msg1="DDDDD"
 msg3=msg+msg1
@@ -30,3 +31,6 @@ elif i<=18:
 	print("you are young")
 else:
 	print("you are old enough")
+=======
+print("hello world")
+>>>>>>> bc6a6a37fe7fe46bbba639b0a46fc23a0f7a46a5
